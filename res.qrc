@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/title.png</file>
+        <file>UI/closebutton.png</file>
+        <file>UI/border.png</file>
+        <file>UI/right_border.png</file>
+        <file>UI/minwindowbutton.png</file>
+        <file>UI/mydevice.png</file>
+        <file>UI/description.png</file>
+        <file>UI/ID.png</file>
+        <file>UI/pass.png</file>
+        <file>UI/connectbutton.png</file>
+        <file>UI/inputtext.png</file>
+        <file>UI/localcontrol.png</file>
+        <file>UI/remotecontrol.png</file>
+        <file>UI/connectbutton_hover.png</file>
+    </qresource>
+</RCC>
